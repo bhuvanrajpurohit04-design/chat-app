@@ -2,6 +2,11 @@
 
 A beginner-friendly, Instagram-inspired 1-on-1 real-time browser chat application built with **Node.js**, **Express**, and **Socket.IO**.
 
+## Live Demo
+
+- **Try it live**: [https://injuries-defined-not-wyoming.trycloudflare.com](https://injuries-defined-not-wyoming.trycloudflare.com)
+  *(Note: Hosted via Cloudflare Quick Tunnel—active whenever the local Node server and tunnel are running.)*
+
 ## What It Does
 
 **Direct** lets two or more users chat privately in real time directly in their web browsers—no database or account registration required. Each user picks a unique username, sees who is online in the sidebar, and opens a private 1-on-1 conversation.
